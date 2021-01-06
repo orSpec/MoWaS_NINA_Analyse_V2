@@ -4,6 +4,8 @@ Motiviert durch den [bundesweiten Warntag 2020](https://warnung-der-bevoelkerung
 
 Aufgrund der veralteten Daten in der ersten Analyse wurden neue Daten beim BBK (Bundesamt für Bevölkerungsschutz und Katastrophenhilfe) angefragt. Das BBK stellte hierzu Daten für den Zeitraum 2015-2020 zur Verfügung. Die Rohdaten sind frei zugänglich auf [FragDenStaat](https://fragdenstaat.de/anfrage/warnmeldungen-uber-die-warn-app-nina/).
 
+Das Jupyter-Notebook, welches die Analyse enthält, kann [hier](https://nbviewer.jupyter.org/github/orSpec/MoWaS_NINA_Analyse_V2/blob/master/analysis/Analyse_Meldungen.ipynb) gerendert betrachtet werden.
+
 ### Code
 Die Analyse wurde in einem [Jupyter Notebook](https://jupyter.org/) mithilfe der folgenden Bibliotheken durchgeführt:
 
